@@ -16,7 +16,6 @@ public class MyListUtil {
 			default:
 		}
 		
-		System.out.println(tmp);
 		return tmp;
 	}
 	
